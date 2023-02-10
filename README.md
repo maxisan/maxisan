@@ -3,27 +3,27 @@
 ## `This is me`
 Welcome to my repository!
 
-I'm a **full-stack developer** who enjoys a bit more the frontend development.
+I am a full-stack developer with a passion for front-end development. 
 
-I love solving challenges and am passionate about technology in general.
+I thrive on solving challenges and exploring the latest in technology.
 
-**Some other things I love:**
+**When I'm not coding, you can find me:**
 
-🎮 Play videogames
+🎮 Playing video games
 
-🎲 Play and collect board games
+🎲 Enjoying board games
 
-🍻 Spend time with friends and family
+🍻 Spending time with friends and family
 
-😻 The *michis*
+😻 Admiring *michis*
 
-🧉 Drink *mate*
+🧉 Sipping on *mate*
 ## `My Projects`
 Know what I've been working on!
 
 ### `Challenges`
 
-🍺 **BeerUp** | This is the Santander's *fullstack challenge* that I made to get the job. 
+🍺 **BeerUp** | This is a *full-stack challenge* I completed for Santander. 
 
 [Try it online](https://beer-up.web.app/login) | [Visit the repository](https://github.com/maxisan/beerup)
 
@@ -36,7 +36,7 @@ Know what I've been working on!
 
 ---
 
-⌨️ **Markdown Previewer** | This project is part of the *Front End Development Libraries* colection on [freecodecamp.org](https://www.freecodecamp.org/learn/front-end-development-libraries/#react-and-redux). 
+⌨️ **Markdown Previewer** | This project is part of the *Front End Development Libraries* collection on freecodecamp.org [freecodecamp.org](https://www.freecodecamp.org/learn/front-end-development-libraries/#react-and-redux). 
 
 [Try it online](https://maxisan.github.io/markdown-prev/) | [Visit the repository](https://github.com/maxisan/markdown-prev/blob/master/README.md)
 
@@ -45,7 +45,7 @@ Know what I've been working on!
 
 ---
 
-👾 **G4 games** | This videogames e-commerce was the final project to finish the *Fullstack Developer Bootcamp* at [Henry](https://www.soyhenry.com/).
+👾 **G4 games** | This is an e-commerce platform for video games that I created as my final project in a Full-stack Developer Bootcamp at [Henry](https://www.soyhenry.com/).
 
 [Visit the repository](https://github.com/maxisan/g4games-ecommerce)
 
@@ -74,7 +74,7 @@ Know what I've been working on!
 
 ---
 
-![at Santander](/assets/santaLogo.png) **Customers' Help Center** | Home Banking platform where clients can resolve doubts, access to selfmanaged operations and get assist if is neccesary.
+![at Santander](/assets/santaLogo.png) **Customers' Help Center** | Home Banking platform where clients can resolve doubts, access self-managed operations, and receive assist if neccesary.
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
@@ -94,7 +94,7 @@ Know what I've been working on!
 
 ---
 
-![at Globons](assets/globonsLogo.png) **Wow** | Internal social media for job relationships.
+![at Globons](assets/globonsLogo.png) **Wow** | Internal social media platform for job relationships.
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -104,7 +104,9 @@ Know what I've been working on!
 
 ---
 
-![at Globons](assets/globonsLogo.png) **Javit** | Digital courrier system. This incuded the main page, a backoffice site and a QR reader mobile app.
+![at Globons](assets/globonsLogo.png) **Javit** | Digital courrier system that incuded the main page, a backoffice site, and a QR reader mobile app.
+
+[Try it online](https://javit.com.ar/#/)
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
