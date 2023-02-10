@@ -1,7 +1,4 @@
-
-<div id="header" align="center">
-  <img src="assets/bannerGithub.png" alt="Hi! I'm "/>
-</div>
+![Hi! I'm Max. Full Stack Developer](/assets/bannerGithub.png)
 
 ## `This is me`
 Welcome to my repository!
