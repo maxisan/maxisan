@@ -25,7 +25,41 @@ Know what I've been working on!
 
 ---
 
-![at Santander](/assets/santaLogo.png) **Help Centre** | Online platfom to provide help and selfmanagement offers to Santander's customers and non-costumers. 
+![at Kraftvaerk](/assets/kraftLogo.png) **XL-BYG** | E-commerce for one of the most significant building product chains in Danmark.
+
+[Try it online](https://www.xl-byg.dk)
+
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind%20css&logoColor=white)
+![Contentful](https://img.shields.io/badge/Contentful-white?style=for-the-badge&logo=contentful&logoColor=#2478CC)
+
+---
+
+![at Kraftvaerk](/assets/kraftLogo.png) **Silvan** | E-commerce for a DIY and building materials retailer in Danmark.
+
+[Try it online](https://www.silvan.dk/)
+
+![Nuxt JS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![Vue](https://img.shields.io/badge/vue-42b883?style=for-the-badge&logo=vue.js&logoColor=35495e)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind%20css&logoColor=white)
+![Contentful](https://img.shields.io/badge/Contentful-white?style=for-the-badge&logo=contentful&logoColor=#2478CC)
+
+---
+
+![at Kraftvaerk](/assets/kraftLogo.png) **Jem & Fix** | E-commerce site for DIY and construction materials store. 
+
+[Try it online](https://www.jemogfix.dk/)
+
+![Vue](https://img.shields.io/badge/vue-42b883?style=for-the-badge&logo=vue.js&logoColor=35495e)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Umbraco](https://img.shields.io/badge/Umbraco-3544B1?style=for-the-badge&logo=umbraco&logoColor=white)
+
+---
+
+![at Santander](/assets/santaLogo.png) **Help Centre** | Online platform to provide help and self-management offers to Santander's customers and non-costumers. 
 
 [Try it online](https://ayuda.santander.com.ar)
 
